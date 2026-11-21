@@ -11,10 +11,9 @@
 - **Business software:** [CRMs & dashboards](https://novixforge.com/services/crm-dashboards) and [custom software](https://novixforge.com/services/custom-software)
 - **Search:** [SEO, AEO & GEO](https://novixforge.com/services/seo-aeo-geo), so customers find you on Google and in AI answers
 
-#### Free tools (no sign-up)
+#### Free tools ([all tools](https://novixforge.com/tools), no sign-up)
 
-- [Website X-Ray](https://novixforge.com/tools#xray): how Google and AI tools see your website
-- [AI Business Check-up](https://novixforge.com/tools#power): what slows your business down, and the fixes
+- [Website X-Ray](https://novixforge.com/tools/website-x-ray): how Google and AI tools see your website (speed, SEO basics, AI-readiness)
 
 #### Our work
 
